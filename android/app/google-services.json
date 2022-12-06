@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "348395158863",
+    "firebase_url": "https://last2digit2022-default-rtdb.firebaseio.com",
+    "project_id": "last2digit2022",
+    "storage_bucket": "last2digit2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348395158863:android:0f4bec3e99c73d86b4593a",
+        "android_client_info": {
+          "package_name": "com.emilbank.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348395158863-g2qm2kklhu0ecn20g9ocl6ooecaumqjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emilbank.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "348395158863-rfvnpgujbg4eov8buheu7o6dntlj02o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xR8ZFPd41gLJdzMSzPKG-ZzvW_sdwSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348395158863-rfvnpgujbg4eov8buheu7o6dntlj02o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348395158863-2jj7d4csmk24jsqes57q34srlk83l0j8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netlify.moviemix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348395158863:android:7f35db5d454bb39cb4593a",
+        "android_client_info": {
+          "package_name": "com.nativemobileapp.last2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348395158863-2doo1r0oqp1tfp1f75htb68h2mbu04ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativemobileapp.last2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "348395158863-rfvnpgujbg4eov8buheu7o6dntlj02o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xR8ZFPd41gLJdzMSzPKG-ZzvW_sdwSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348395158863-rfvnpgujbg4eov8buheu7o6dntlj02o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348395158863-2jj7d4csmk24jsqes57q34srlk83l0j8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netlify.moviemix"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348395158863:android:1f9168c8145c1e82b4593a",
+        "android_client_info": {
+          "package_name": "com.netlify.moviemix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348395158863-h9oltpncqstu2e68tgb1226bdjd4d6td.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.netlify.moviemix",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "348395158863-rfvnpgujbg4eov8buheu7o6dntlj02o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xR8ZFPd41gLJdzMSzPKG-ZzvW_sdwSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348395158863-rfvnpgujbg4eov8buheu7o6dntlj02o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348395158863-2jj7d4csmk24jsqes57q34srlk83l0j8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netlify.moviemix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

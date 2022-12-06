@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>348395158863-2jj7d4csmk24jsqes57q34srlk83l0j8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.348395158863-2jj7d4csmk24jsqes57q34srlk83l0j8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>348395158863-2doo1r0oqp1tfp1f75htb68h2mbu04ls.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOWviM2CRCmhrCzOLBtbHn6ag_Xqz9UqU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>348395158863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.netlify.moviemix</string>
+	<key>PROJECT_ID</key>
+	<string>last2digit2022</string>
+	<key>STORAGE_BUCKET</key>
+	<string>last2digit2022.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:348395158863:ios:b63d299d0317ac52b4593a</string>
+	<key>DATABASE_URL</key>
+	<string>https://last2digit2022-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
